@@ -24,6 +24,7 @@ Columns 5 to 8 are defined between [10, 20];
 Columns 9 to 10 are defined between [-100, 100].  
 Apply following clustering algorithms; determine the optimal number of clusters and plot distance metric 
 graph using each algorithm. 
+
 (i) K-Mean clustering 
 
 (ii) Hierarchical clustering 
@@ -40,6 +41,7 @@ Perform the following operations:
 Q5. Create a random dataset of 500 rows and 5 columns: 
 All the values are defined between [5,10].  
 Perform the following operations: 
+
 (i) Perform t-Test on each column. 
 
 (ii) Perform Wilcoxon Signed Rank Test on each column. 
